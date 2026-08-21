@@ -60,8 +60,5 @@ Ask me about **Terraform, Kubernetes, CI/CD, and payment system reliability patt
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=aashiruu&bg_color=00000000&color=2ea043&line=2ea043&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
 </p>
 
-![](https://komarev.com/ghpvc/?username=aashiruu)
-
-
 ---
 <p align="center"><i>From <a href="https://github.com/aashiruu">aashiruu</a></i></p>
